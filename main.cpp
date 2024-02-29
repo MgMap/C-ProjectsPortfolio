@@ -4,5 +4,6 @@
 int main()
 {
     runPrograms runProgram;
+    std::cout << "hi";
     return 0;
 }
